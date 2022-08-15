@@ -1,4 +1,4 @@
-package com.habstreak.newarchitecture.modules;
+package com.Habstreak.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

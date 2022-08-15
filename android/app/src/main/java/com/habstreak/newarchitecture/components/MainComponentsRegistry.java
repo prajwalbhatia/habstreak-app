@@ -1,4 +1,4 @@
-package com.habstreak.newarchitecture.components;
+package com.Habstreak.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

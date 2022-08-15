@@ -1,4 +1,4 @@
-package com.habstreak.newarchitecture;
+package com.Habstreak.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.habstreak.BuildConfig;
-import com.habstreak.newarchitecture.components.MainComponentsRegistry;
-import com.habstreak.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.Habstreak.BuildConfig;
+import com.Habstreak.newarchitecture.components.MainComponentsRegistry;
+import com.Habstreak.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

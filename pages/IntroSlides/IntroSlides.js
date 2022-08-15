@@ -11,7 +11,7 @@ import Screen3 from '../../assets/screen3.svg';
 
 const screensList = [{
   title: 'Get things done and rewards yourself',
-  description: 'Are you tired of starting the things and dropping in between??? Not anymore, try habstreak, record your task and reward yourself on reaching milestones.',
+  description: 'Are you tired of starting the things and dropping in between??? Not anymore, try Habstreak, record your task and reward yourself on reaching milestones.',
   image: <Screen1 />
 },
 {

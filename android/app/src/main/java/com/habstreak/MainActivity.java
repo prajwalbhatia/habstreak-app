@@ -1,4 +1,4 @@
-package com.habstreak;
+package com.Habstreak;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
@@ -18,7 +18,7 @@ protected void onCreate(Bundle savedInstanceState) {
    */
   @Override
   protected String getMainComponentName() {
-    return "habstreak";
+    return "Habstreak";
   }
 
   /**
