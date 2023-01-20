@@ -59,13 +59,13 @@ Please access HABSTREAK APP using the URL:
 # 🦄 Upcoming Features
 `HABSTREAK APP` has all the potentials to grow further. Here are some of the upcoming features planned(not in any order),
 
-- ✔️ If a day is missed in a streak then give atleast one chance to recover
-- ✔️ Add the ability to complete the streak once a week or similar option, instead of only allowing them to complete streak on daily basis.
-- ✔️ Roadmaps for their streak.
-- ✔️ Scolding feature - that if a user is not able to complete a streak than something should happen (not decided yet 😅)
-- ✔️ Start and stop streak
-- ✔️ Night mode
-- ✔️ Weekly and montly performance
+- If a day is missed in a streak then give atleast one chance to recover
+- Add the ability to complete the streak once a week or similar option, instead of only allowing them to complete streak on daily basis.
+- Roadmaps for their streak.
+- Scolding feature - that if a user is not able to complete a streak than something should happen (not decided yet 😅)
+- Start and stop streak
+- Night mode
+- Weekly and montly performance
 
 # 🙏 Support
 
